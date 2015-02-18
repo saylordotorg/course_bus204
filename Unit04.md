@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS204: Business Statistics"
+course_description: "An introductory survey of quantitative methods (QM), or the application of statistics in the workplace. This course examines techniques for gathering, analyzing, and interpreting data across a number of fields, from anthropology to hedge fund management."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Sampling and Sampling Distributions** <span id="4"></span> 
 *While you may not become a professional data gatherer, it is likely
 that you will need to compile data on a regular basis.  When gathering

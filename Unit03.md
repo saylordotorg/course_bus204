@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS204: Business Statistics"
+course_description: "An introductory survey of quantitative methods (QM), or the application of statistics in the workplace. This course examines techniques for gathering, analyzing, and interpreting data across a number of fields, from anthropology to hedge fund management."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Normal Distribution** <span id="3"></span> 
 *A distribution is a line graph representation of the probability that
 an event will occur.  It is similar to a histogram, but in a

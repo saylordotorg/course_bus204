@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS204: Business Statistics"
+course_description: "An introductory survey of quantitative methods (QM), or the application of statistics in the workplace. This course examines techniques for gathering, analyzing, and interpreting data across a number of fields, from anthropology to hedge fund management."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Correlation and Regression** <span id="6"></span> 
 *If two data points move in the same direction, does that mean that one
 causes the other? How are we to analyze their correlation?*  

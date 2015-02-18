@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS204: Business Statistics"
+course_description: "An introductory survey of quantitative methods (QM), or the application of statistics in the workplace. This course examines techniques for gathering, analyzing, and interpreting data across a number of fields, from anthropology to hedge fund management."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Counting, Probability, and Probability Distributions** <span
 id="2"></span> 
 *What is the likelihood that an event will occur?  What are the chances

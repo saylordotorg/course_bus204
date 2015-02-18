@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS204: Business Statistics"
+course_description: "An introductory survey of quantitative methods (QM), or the application of statistics in the workplace. This course examines techniques for gathering, analyzing, and interpreting data across a number of fields, from anthropology to hedge fund management."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's BUS204 Final Exam**
     Link: The Saylor Foundation's [BUS204 Final
